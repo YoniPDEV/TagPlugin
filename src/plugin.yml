@@ -1,0 +1,5 @@
+name: TagPlugin
+version: 1.0
+author: yonatan
+main: me.yonatan.tag.Main
+commands:
